@@ -28,14 +28,23 @@ Tripoli, Lebanon—known for its active markets and heavy cash-based economy, ma
 Day	Location Focus	Target Merchants
 
 1	Souk Al-Haraj & Main Street	10–15
+
 2	Souk Al-Qimma Industrial Area	10
+
 3	Bab Al-Raml Market	10
+
 4	Al-Mina District	10
+
 5	Downtown Tripoli	10
+
 6	Cafes & Street Vendors	10
+
 7	Clothing & Textile Shops	10
+
 8	Food & Grocery Markets	10
+
 9	Follow-up visits	-
+
 10	Wrap-up & Campaign Reporting	-
 
 
