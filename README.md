@@ -1,8 +1,8 @@
-Bitcoin Cash Adoption Campaign in Tripoli, Lebanon
+BitcoinCash Adoption Campaign in Tripoli, Lebanon
 
 👤 About Me
 
-I’m a resident of Tripoli, Lebanon—a city where most businesses depend exclusively on cash due to the ongoing financial crisis and limited banking services. Despite the popularity of cryptocurrencies in Lebanon, Bitcoin Cash (BCH) adoption by merchants remains minimal.
+I’m a resident of Tripoli, Lebanon—a city where most businesses depend exclusively on cash due to the ongoing financial crisis and limited banking services. Despite the popularity of cryptocurrencies in Lebanon, BitcoinCash (BCH) adoption by merchants remains minimal.
 
 This campaign aims to change that by educating merchants, facilitating BCH adoption, and proving BCH as a reliable, low-fee payment option.
 
@@ -44,11 +44,17 @@ Day	Location Focus	Target Merchants
 Item	Purpose	Quantity/Duration	Cost (USD)
 
 Internet & Mobile Data	Mobile internet for navigation, communication, and BCH demos	1 month prepaid SIM	$5
-Bitcoin Cash for Tests	Small BCH payments (~$0.10) to 100 merchants for live demos	100 × $0.10	$10
+
+BitcoinCash for Tests	Small BCH payments (~$0.10) to 100 merchants for live demos	100 × $0.10	$10
+
 Printed Educational Materials	Flyers & brochures in Arabic explaining BCH benefits and acceptance steps	200 copies	$8
+
 “We Accept BCH” Stickers	Durable, colorful storefront stickers to increase BCH visibility	100 stickers	$12
+
 BCH Payment QR Cards	Laminated cards with BCH payment QR codes for ease of use	100 cards	$10
+
 Transportation	Public transport, taxis, or rideshare to cover all merchant visits in Tripoli	10 days × ~$3	$30
+
 Miscellaneous Supplies	Power bank, charging cables, memory cards for documentation	-	$15
 
 
@@ -61,9 +67,13 @@ While the basic campaign execution requires $90, the $250 budget request covers:
 Use Case	Cost (USD)	Explanation
 
 Basic Campaign Execution	$90	As detailed above
+
 Campaign Expansion	$60	Doubling printed materials and merchant visits
+
 Improved Documentation Gear	$50	Phone mount, power bank, storage devices, better photos/videos
+
 Merchant Incentives	$20	Extra BCH tips to encourage early BCH acceptance
+
 Contingency & Logistics	$30	Covers inflation, emergency transportation, or unexpected expenses
 
 
@@ -84,7 +94,7 @@ Support this campaign by donating BCH to:
 
 bitcoincash:qr6m29525y397p873pycpa4n3fxtreae9qhxjhj3dx
 
-Every donation helps bring Bitcoin Cash closer to everyday use in Tripoli, Lebanon.
+Every donation helps bring BitcoinCash closer to everyday use in Tripoli, Lebanon.
 
 📞 Contact
 For inquiries or collaboration, open an issue on this repository or contact me directly on X @psyman169
